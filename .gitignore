@@ -244,3 +244,6 @@ docs/dev
 
 # Submission zip files
 *.zip
+
+# other binary files
+*.exe
